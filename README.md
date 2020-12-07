@@ -1,4 +1,4 @@
-**FXEmpire Interview Excercise**
+**FXEmpire Interview Excersice**
 
 In this exercise you'll create an application that calls our server api, gets a json response that represents an "Apple Inc" (Aka: aapl) market chart. You are requested to display this data on a chart and tab control that toggle between chart timestamps.
 
